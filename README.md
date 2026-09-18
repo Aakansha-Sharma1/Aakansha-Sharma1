@@ -12,6 +12,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakansha%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanshas/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakansha.s0506@gmail.com)
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Aakansha-Sharma1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
+
 </div>
 ---
 
