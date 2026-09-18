@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="190"
+    viewBox="0 0 900 190">
+
+    <style>
+        .title {
+            font-family: monospace;
+            font-size: 16px;
+            font-weight: bold;
+            fill: #24292f;
+        }
+
+        .card {
+            fill: #f6f8fa;
+            stroke: #d0d7de;
+            stroke-width: 1;
+        }
+
+        .value {
+            font-family: monospace;
+            font-size: 28px;
+            font-weight: bold;
+            fill: #0969da;
+        }
+
+        .label {
+            font-family: monospace;
+            font-size: 11px;
+            font-weight: bold;
+            fill: #57606a;
+            letter-spacing: 1px;
+        }
+    </style>
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#ffffff"
+    />
+
+    <text x="20" y="28" class="title">
+        ~/ the numbers
+    </text>
+
+    
+            <rect
+                x="20"
+                y="50"
+                width="205"
+                height="105"
+                rx="12"
+                class="card"
+            />
+
+            <text
+                x="122.5"
+                y="95"
+                text-anchor="middle"
+                class="value"
+            >
+                8
+            </text>
+
+            <text
+                x="122.5"
+                y="128"
+                text-anchor="middle"
+                class="label"
+            >
+                PUBLIC REPOS
+            </text>
+            
+            <rect
+                x="240"
+                y="50"
+                width="205"
+                height="105"
+                rx="12"
+                class="card"
+            />
+
+            <text
+                x="342.5"
+                y="95"
+                text-anchor="middle"
+                class="value"
+            >
+                1
+            </text>
+
+            <text
+                x="342.5"
+                y="128"
+                text-anchor="middle"
+                class="label"
+            >
+                FOLLOWERS
+            </text>
+            
+            <rect
+                x="460"
+                y="50"
+                width="205"
+                height="105"
+                rx="12"
+                class="card"
+            />
+
+            <text
+                x="562.5"
+                y="95"
+                text-anchor="middle"
+                class="value"
+            >
+                1
+            </text>
+
+            <text
+                x="562.5"
+                y="128"
+                text-anchor="middle"
+                class="label"
+            >
+                STARS
+            </text>
+            
+            <rect
+                x="680"
+                y="50"
+                width="205"
+                height="105"
+                rx="12"
+                class="card"
+            />
+
+            <text
+                x="782.5"
+                y="95"
+                text-anchor="middle"
+                class="value"
+            >
+                0
+            </text>
+
+            <text
+                x="782.5"
+                y="128"
+                text-anchor="middle"
+                class="label"
+            >
+                FORKS
+            </text>
+            
+
+    </svg>

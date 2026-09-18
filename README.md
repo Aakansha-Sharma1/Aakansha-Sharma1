@@ -101,6 +101,15 @@ A from-scratch operating system built step-by-step to understand how an operatin
 
 <div align="center">
 
+## `~/` the numbers
+
+<img src="assets/numbers.svg" width="900" alt="Aakansha Sharma GitHub statistics">
+
+</div>
+
+
+<div align="center">
+
 ## `~/` contribution graph
 
 <picture>
