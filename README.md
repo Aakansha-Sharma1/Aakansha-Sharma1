@@ -4,7 +4,7 @@
 
 # Aakansha Sharma
 
-### `Systems • Operating Systems • Cybersecurity • AI • Open Source`
+### `Building systems • exploring security • understanding how things work`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aakansha--Sharma1-181717?style=for-the-badge&logo=github)](https://github.com/Aakansha-Sharma1)
 
