@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="assets/profile.png" width="260" alt="Aakansha">
+<img src="assets/profile.png" width="280" alt="Aakansha Sharma">
 
 # Aakansha Sharma
 
-<img src="assets/rotating-text.svg" width="700" alt="Currently building">
+<img src="assets/rotating-text.svg" width="700" alt="Aakansha Sharma - developer focus">
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aakansha--Sharma1-181717?style=for-the-badge&logo=github)](https://github.com/Aakansha-Sharma1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakansha%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanshas/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakansha.s0506@gmail.com)
 
 </div>
-
 ---
 
 ```text
