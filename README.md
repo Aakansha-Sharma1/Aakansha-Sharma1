@@ -95,12 +95,18 @@ A from-scratch operating system built step-by-step to understand how an operatin
 
 </div>
 
----
-
 <div align="center">
 
-## `~/` contribution calendar
+## `~/` contribution graph
 
-<img src="assets/contributions.svg" width="900" alt="Aakansha Sharma GitHub contribution calendar">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Aakansha-Sharma1/Aakansha-Sharma1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Aakansha-Sharma1/Aakansha-Sharma1/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Aakansha-Sharma1/Aakansha-Sharma1/output/github-snake.svg"
+       width="900"
+       alt="Aakansha Sharma contribution graph">
+</picture>
 
 </div>
