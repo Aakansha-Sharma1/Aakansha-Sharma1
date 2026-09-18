@@ -101,10 +101,6 @@ A from-scratch operating system built step-by-step to understand how an operatin
 
 ## `~/` contribution calendar
 
-<img
-  src="assets/contributions.svg"
-  width="900"
-  alt="Aakansha Sharma GitHub contribution calendar"
->
+<img src="assets/contributions.svg" width="900" alt="Aakansha Sharma GitHub contribution calendar">
 
 </div>
