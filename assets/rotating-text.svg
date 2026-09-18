@@ -1,0 +1,59 @@
+<svg width="700" height="55" viewBox="0 0 700 55" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 21px;
+      font-weight: 600;
+      fill: #58a6ff;
+    }
+
+    .cursor {
+      fill: #3fb950;
+    }
+  </style>
+
+  <g>
+    <text class="text" x="350" y="34" text-anchor="middle">
+      building InitraOS
+      <animate attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.08;0.28;0.36;1"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <text class="text" x="350" y="34" text-anchor="middle" opacity="0">
+      exploring operating systems
+      <animate attributeName="opacity"
+        values="0;0;1;1;0"
+        keyTimes="0;0.28;0.36;0.56;0.64"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <text class="text" x="350" y="34" text-anchor="middle" opacity="0">
+      learning kernel development
+      <animate attributeName="opacity"
+        values="0;0;1;1;0"
+        keyTimes="0;0.56;0.64;0.84;0.92"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <text class="text" x="350" y="34" text-anchor="middle" opacity="0">
+      exploring cybersecurity
+      <animate attributeName="opacity"
+        values="0;0;1;1;0"
+        keyTimes="0;0.84;0.92;0.98;1"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <rect class="cursor" x="520" y="15" width="3" height="22">
+      <animate attributeName="opacity"
+        values="1;0;1"
+        dur="0.9s"
+        repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
