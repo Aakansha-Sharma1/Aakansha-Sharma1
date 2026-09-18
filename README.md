@@ -4,7 +4,7 @@
 
 # Aakansha Sharma
 
-<img src="assets/rotating-text.svg" width="700" alt="Aakansha Sharma - developer focus">
+<img src="assets/rotating-text.gif" width="700" alt="Aakansha Sharma - developer focus">
 
 <br>
 
