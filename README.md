@@ -28,10 +28,9 @@ Interested in:
 → Artificial Intelligence
 → Open Source
 
-```markdown
 Currently building:
 → InitraOS
-````
+```
 
 ---
 
@@ -70,3 +69,28 @@ A from-scratch operating system built step-by-step to understand how an operatin
 ![NASM](https://img.shields.io/badge/NASM-2C2D72?style=for-the-badge)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge)
 ![x86](https://img.shields.io/badge/x86-0071C5?style=for-the-badge)
+
+---
+
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="assets/radar-domain.svg" width="100%" alt="GitHub domain skill radar">
+
+</td>
+<td width="50%" align="center">
+
+<img src="assets/radar-tech.svg" width="100%" alt="GitHub technology skill radar">
+
+</td>
+</tr>
+</table>
+
+<sub>Scores are automatically derived from my public GitHub repositories.</sub>
+
+</div>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760">
+<defs><linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#07111f"/><stop offset="100%" stop-color="#111827"/></linearGradient><linearGradient id="radar" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#a855f7"/></linearGradient></defs>
+<rect x="10" y="10" width="880" height="740" rx="28" fill="url(#background)" stroke="#1e293b" stroke-width="2"/>
+<text x="450" y="62" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#f8fafc">GitHub Technology Radar</text>
+<text x="450" y="96" text-anchor="middle" font-family="monospace" font-size="15" fill="#94a3b8">Automatically derived from 7 public repositories</text>
+<polygon points="450.00,323.00 489.94,352.02 474.69,398.98 425.31,398.98 410.06,352.02" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="450.00,281.00 529.89,339.04 499.37,432.96 400.63,432.96 370.11,339.04" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="450.00,239.00 569.83,326.06 524.06,466.94 375.94,466.94 330.17,326.06" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="450.00,197.00 609.78,313.09 548.75,500.91 351.25,500.91 290.22,313.09" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="450.00,155.00 649.72,300.11 573.43,534.89 326.57,534.89 250.28,300.11" fill="none" stroke="#334155" stroke-width="1"/>
+<line x1="450" y1="365" x2="450.00" y2="155.00" stroke="#334155" stroke-width="1"/>
+<line x1="450" y1="365" x2="649.72" y2="300.11" stroke="#334155" stroke-width="1"/>
+<line x1="450" y1="365" x2="573.43" y2="534.89" stroke="#334155" stroke-width="1"/>
+<line x1="450" y1="365" x2="326.57" y2="534.89" stroke="#334155" stroke-width="1"/>
+<line x1="450" y1="365" x2="250.28" y2="300.11" stroke="#334155" stroke-width="1"/>
+<polygon points="450.00,274.70 537.88,336.45 475.92,400.68 338.91,517.90 418.04,354.62" fill="#3b82f6" fill-opacity="0.20" stroke="url(#radar)" stroke-width="3"/>
+<circle cx="450.00" cy="274.70" r="5" fill="#22d3ee"/>
+<text x="450.00" y="150.00" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="15" font-weight="600" fill="#e2e8f0">C / C++</text>
+<text x="450.00" y="128.00" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="13" fill="#64748b">4.3/10</text>
+<circle cx="537.88" cy="336.45" r="5" fill="#22d3ee"/>
+<text x="654.48" y="298.56" text-anchor="start" dominant-baseline="middle" font-family="monospace" font-size="15" font-weight="600" fill="#e2e8f0">Assembly</text>
+<text x="675.40" y="291.76" text-anchor="start" dominant-baseline="middle" font-family="monospace" font-size="13" fill="#64748b">4.4/10</text>
+<circle cx="475.92" cy="400.68" r="5" fill="#22d3ee"/>
+<text x="576.37" y="538.94" text-anchor="start" dominant-baseline="middle" font-family="monospace" font-size="15" font-weight="600" fill="#e2e8f0">Python</text>
+<text x="589.31" y="556.74" text-anchor="start" dominant-baseline="middle" font-family="monospace" font-size="13" fill="#64748b">2.1/10</text>
+<circle cx="338.91" cy="517.90" r="5" fill="#22d3ee"/>
+<text x="323.63" y="538.94" text-anchor="end" dominant-baseline="middle" font-family="monospace" font-size="15" font-weight="600" fill="#e2e8f0">JavaScript / TypeScript</text>
+<text x="310.69" y="556.74" text-anchor="end" dominant-baseline="middle" font-family="monospace" font-size="13" fill="#64748b">9.0/10</text>
+<circle cx="418.04" cy="354.62" r="5" fill="#22d3ee"/>
+<text x="245.52" y="298.56" text-anchor="end" dominant-baseline="middle" font-family="monospace" font-size="15" font-weight="600" fill="#e2e8f0">Linux / Tooling</text>
+<text x="224.60" y="291.76" text-anchor="end" dominant-baseline="middle" font-family="monospace" font-size="13" fill="#64748b">1.6/10</text>
+<text x="450" y="715" text-anchor="middle" font-family="monospace" font-size="13" fill="#64748b">Scores are automatically derived from public repository data</text>
+</svg>
