@@ -50,6 +50,79 @@ A from-scratch operating system built step-by-step to understand how an operatin
 
 [View InitraOS →](https://github.com/Aakansha-Sharma1/InitraOS)
 
+
+<div align="center">
+
+## `~/` selected work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖥️ InitraOS
+
+From-scratch operating system built step-by-step to understand booting, interrupts, memory management, and kernel architecture.
+
+**C · x86 Assembly · NASM · QEMU**
+
+<a href="https://github.com/Aakansha-Sharma1/InitraOS">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View InitraOS">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ AI-Prompt-Guadrail
+
+AI security project focused on analyzing and controlling potentially unsafe or malicious prompts before they reach an AI system.
+
+**Python · AI · Cybersecurity · Guardrails**
+
+<a href="https://github.com/Aakansha-Sharma1/AI-Prompt-Guadrail">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI-Prompt-Guadrail">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔎 Forensic Triage Dashboard
+
+Cybersecurity project focused on organizing and visualizing digital-forensics triage information through a dedicated dashboard.
+
+**Python · Cybersecurity · Digital Forensics · Dashboard**
+
+<a href="https://github.com/Aakansha-Sharma1/Forensic-Triage-Dashboard">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Forensic Triage Dashboard">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Digital Footprint Analyzer
+
+Machine-learning system for analyzing digital-footprint data and assessing user risk through multiple AI/ML techniques.
+
+**Python · Machine Learning · AI · Risk Analysis**
+
+<a href="https://github.com/Aakansha-Sharma1/AI-Digital-Footprint-Analyzer">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Digital Footprint Analyzer">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 🧰 Toolbox
