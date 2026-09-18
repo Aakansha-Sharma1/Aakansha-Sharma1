@@ -9,74 +9,70 @@
     }
   </style>
 
-  <g text-anchor="middle">
+  <!-- 1 -->
+  <text class="text" x="380" y="38" text-anchor="middle">
+    building InitraOS
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="1;1;1;0;0;0"
+      keyTimes="0;0.125;0.1458;0.1667;0.1668;1"/>
+  </text>
 
-    <text class="text" x="380" y="38">
-      building InitraOS
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="0s"
-        repeatCount="indefinite"/>
-    </text>
+  <!-- 2 -->
+  <text class="text" x="380" y="38" text-anchor="middle" opacity="0">
+    exploring operating systems
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.1667;0.1875;0.2917;0.3125;1"/>
+  </text>
 
-    <text class="text" x="380" y="38" opacity="0">
-      exploring operating systems
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="3s"
-        repeatCount="indefinite"/>
-    </text>
+  <!-- 3 -->
+  <text class="text" x="380" y="38" text-anchor="middle" opacity="0">
+    learning kernel development
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.3125;0.3333;0.4375;0.4583;1"/>
+  </text>
 
-    <text class="text" x="380" y="38" opacity="0">
-      learning kernel development
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="6s"
-        repeatCount="indefinite"/>
-    </text>
+  <!-- 4 -->
+  <text class="text" x="380" y="38" text-anchor="middle" opacity="0">
+    exploring cybersecurity
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.4583;0.4792;0.5833;0.6042;1"/>
+  </text>
 
-    <text class="text" x="380" y="38" opacity="0">
-      experimenting with cybersecurity
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="9s"
-        repeatCount="indefinite"/>
-    </text>
+  <!-- 5 -->
+  <text class="text" x="380" y="38" text-anchor="middle" opacity="0">
+    building with C &amp; Assembly
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.6042;0.625;0.7292;0.75;1"/>
+  </text>
 
-    <text class="text" x="380" y="38" opacity="0">
-      building with C &amp; Assembly
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="12s"
-        repeatCount="indefinite"/>
-    </text>
-
-    <text class="text" x="380" y="38" opacity="0">
-      open source enthusiast
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        keyTimes="0;0.08;0.25;0.33"
-        dur="18s"
-        begin="15s"
-        repeatCount="indefinite"/>
-    </text>
-
-  </g>
+  <!-- 6 -->
+  <text class="text" x="380" y="38" text-anchor="middle" opacity="0">
+    open source enthusiast
+    <animate
+      attributeName="opacity"
+      dur="36s"
+      repeatCount="indefinite"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.75;0.7708;0.875;0.8958;1"/>
+  </text>
 
 </svg>
