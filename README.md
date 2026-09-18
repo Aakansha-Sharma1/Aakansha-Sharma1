@@ -94,3 +94,17 @@ A from-scratch operating system built step-by-step to understand how an operatin
 <sub>Scores are automatically derived from my public GitHub repositories.</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+## `~/` contribution calendar
+
+<img
+  src="assets/contributions.svg"
+  width="900"
+  alt="Aakansha Sharma GitHub contribution calendar"
+>
+
+</div>
