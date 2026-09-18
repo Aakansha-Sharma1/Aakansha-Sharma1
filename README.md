@@ -104,3 +104,13 @@ A from-scratch operating system built step-by-step to understand how an operatin
 <img src="assets/contributions.svg" width="900" alt="Aakansha Sharma GitHub contribution calendar">
 
 </div>
+
+---
+
+<div align="center">
+
+## `~/` contribution snake
+
+<img src="https://raw.githubusercontent.com/Aakansha-Sharma1/Aakansha-Sharma1/output/github-snake.svg" width="900" alt="Aakansha Sharma contribution snake">
+
+</div>
